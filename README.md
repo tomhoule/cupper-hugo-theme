@@ -8,11 +8,8 @@ An accessibility-friendly Hugo theme, ported from the [original Cupper](https://
 
 <!-- toc -->
 
-- [Demo](#demo)
-- [Minimum Hugo version](#minimum-hugo-version)
 - [Installation](#installation)
 - [Updating](#updating)
-- [Run example site](#run-example-site)
 - [Configuration](#configuration)
 - [Nav Title or Logo](#nav-title-or-logo)
 - [Favicons](#favicons)
