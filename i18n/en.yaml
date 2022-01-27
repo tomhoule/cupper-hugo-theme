@@ -22,7 +22,3 @@
   translation: "Tags:"
 - id: aria_label_tags
   translation: tags
-- id: search_placeholder
-  translation: Search by title...
-- id: search_aria_label
-  translation: Search by title
