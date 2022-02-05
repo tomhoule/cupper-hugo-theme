@@ -4,8 +4,6 @@
   translation: Main navigation
 - id: nav_button_menu
   translation: Menu
-- id: discuss_show_comments_button
-  translation: Show comments
 - id: dark_theme
   translation: "dark theme:"
 - id: table_of_contents
