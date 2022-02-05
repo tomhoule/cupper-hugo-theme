@@ -166,7 +166,7 @@ code {
 /* Lists */
 main ul,
 main ol {
-    margin-left: 2.25rem;
+    margin-left: 1.25rem;
 }
 main li + li {
     margin-top: 0.5rem;
