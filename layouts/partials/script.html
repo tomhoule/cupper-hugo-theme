@@ -2,8 +2,6 @@
 {{ $domScripts := $templateDomScripts | resources.ExecuteAsTemplate "js/dom-scripts.js" . }}
 <script src="{{ $domScripts.RelPermalink }}"></script>  
 
-<script src="{{ "js/prism.js" | relURL }}"></script>
-
 {{ range .Site.Params.customJs }}
   <script src="{{ . | relURL }}"></script>
 {{ end }}
